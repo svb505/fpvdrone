@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="fpvdrone/fpvdrone.vcxproj" Id="f19a63c1-6e6c-48b5-aabb-3ade329136cc" />
+</Solution>
